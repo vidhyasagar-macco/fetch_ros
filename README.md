@@ -1,6 +1,6 @@
 # fetch_ros
 
-Open ROS Components for Robots from Fetch Robotics
+Open ROS Components for Robots from Fetch Robot
 
 ## Documentation
 
